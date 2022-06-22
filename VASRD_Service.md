@@ -1,3 +1,9 @@
+BID 0001AQ Discovery Reports
+
+-December 2018, 2021
+
+--Exhibit 3 30: VASRD Main Processes
+
 ```mermaid
 sequenceDiagram
     participant R as Ratings
