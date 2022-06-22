@@ -6,7 +6,7 @@ BID 0001AQ Discovery Reports
 
 ```mermaid
 sequenceDiagram
-    participant R as Ratings
+    participant R as VBMS-R
     participant V as VASRD
     R->>V: Search for Evaluation Builder
     activate V
